@@ -7,4 +7,4 @@ This repository contains the source code of BRMerge-Precise, BRMerge-Upper, Heap
 # Get started
 1 Execute ```$> bash download_matrix.sh``` in the current directory to download the matrix patents_main into matrix/suite_sparse directory
 
-2 For detailed execution instruction, refer the README.md in the Proposed-SpGEMM, and Existing-SpGEMM sub-directory.
+2 For detailed execution instruction, refer the ```README.md``` in the BRMerge-SpGEMM, and Existing-SpGEMM sub-directory.
