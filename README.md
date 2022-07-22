@@ -2,7 +2,7 @@ This repository contains the source code of BRMerge-Precise, BRMerge-Upper, Heap
 # Tested evironment
 - Compiler: Intel ICC 2021.5.0 20211109
 - CPU: 1) Intel Xeon Platinum 8163, 2) Intel Xeon Gold 6254 
-- Operating system: Linux
+- Operating system: Ubuntu 18.04 LTS
 
 # Get started
 1 Execute ```$> bash download_matrix.sh``` in the current directory to download the matrix patents_main into matrix/suite_sparse directory
