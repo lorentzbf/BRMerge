@@ -11,7 +11,7 @@ This repository contains the source code of BRMerge-Precise, BRMerge-Upper, Heap
 
 2 For detailed execution instruction, refer the ```README.md``` in the BRMerge-SpGEMM, and Existing-SpGEMM sub-directory.
 
-## Citation
+## Bibtex
 ```
 @ARTICLE{9840346,
   author={Du, Zhaoyang and Guan, Yijin and Guan, Tianchan and Niu, Dimin and Zheng, Hongzhong and Xie, Yuan},
