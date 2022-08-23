@@ -10,3 +10,16 @@ This repository contains the source code of BRMerge-Precise, BRMerge-Upper, Heap
 1 Execute ```$> bash download_matrix.sh``` in the current directory to download the matrix patents_main into matrix/suite_sparse directory
 
 2 For detailed execution instruction, refer the ```README.md``` in the BRMerge-SpGEMM, and Existing-SpGEMM sub-directory.
+
+Citation
+```
+@ARTICLE{9840346,
+  author={Du, Zhaoyang and Guan, Yijin and Guan, Tianchan and Niu, Dimin and Zheng, Hongzhong and Xie, Yuan},
+  journal={IEEE Access}, 
+  title={Accelerating CPU-Based Sparse General Matrix Multiplication With Binary Row Merging}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={79237-79248},
+  doi={10.1109/ACCESS.2022.3193937}}
+  ```
